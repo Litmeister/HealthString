@@ -1,5 +1,7 @@
 # life
 #ficha medica
+
+
 Paso 1: Instalar las herramientas CLI
 Hay algunas herramientas de CLI útiles para desarrolladores de Composer. El más importante es composer-cli, que contiene todas las operaciones esenciales, entonces lo instalaremos primero. A continuación, también recogeremos generator-hyperledger-composer, composer-rest-servery Yeomanmás el generator-hyperledger-composer. Esos 3 últimos no son partes centrales del entorno de desarrollo, pero serán útiles si sigue los tutoriales o desarrolla aplicaciones que interactúan con su red empresarial, así que las instalaremos ahora.
 
