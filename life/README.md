@@ -1,3 +1,0 @@
-# life
-
-ficha medica
